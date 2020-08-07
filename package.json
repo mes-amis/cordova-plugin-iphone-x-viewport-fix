@@ -1,0 +1,15 @@
+{
+    "name": "cordova-plugin-iphone-x-viewport-fix",
+    "version": "0.0.1",
+    "description": "",
+    "cordova": {
+        "id": "cordova-plugin-iphone-x-viewport-fix",
+        "platforms": [
+            "ios"
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mes-amis/cordova-plugin-iphone-x-viewport-fix"
+    }
+}
