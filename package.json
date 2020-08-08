@@ -1,7 +1,8 @@
 {
     "name": "cordova-plugin-iphone-x-viewport-fix",
     "version": "0.0.1",
-    "description": "",
+    "license": "Apache License",
+    "description": "Fixes content scrolling off the screen after a keyboard opens on iPhone X series phones.",
     "cordova": {
         "id": "cordova-plugin-iphone-x-viewport-fix",
         "platforms": [
